@@ -5,7 +5,7 @@
 
 2.Rotation of Array
 
-3.traverse/reverse array
+3.traverse/reverse array 
 
 4.move all zeroes to end
 
