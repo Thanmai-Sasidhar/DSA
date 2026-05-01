@@ -10,7 +10,7 @@ print("Queue after Enqueue: ",queue)
 
 
 #Dequeue
-'''
+''' 
 queue=list(map(int,input().split()))
 if len(queue)==0:
     print("Queue is Empty...")
