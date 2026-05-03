@@ -10,7 +10,7 @@ front =rear =0
 insertion.      front.        rear.            queue
 
 
-
+ 
 '''
 #Circular Queue
 class circularqueue:
